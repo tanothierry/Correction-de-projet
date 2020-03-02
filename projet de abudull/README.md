@@ -3,7 +3,7 @@ Maquette de site mes codes HTML &amp;CSS
 
 #CORRECTION DU TEMPLATE DE BLOG
 
-##Correction du HTML
+## Correction du HTML
 
 1. manque de commentaire : pour un bon developpeur il doig toujour mettre des comment dans son code pour mieux se retrouver prochainement.
 
@@ -20,7 +20,7 @@ Maquette de site mes codes HTML &amp;CSS
 
 ---
 
-##Correction du CSS
+## Correction du CSS
 
 1. tout abord dans le code css a une structure de base qui est :
 
@@ -46,7 +46,7 @@ Maquette de site mes codes HTML &amp;CSS
 
 ---
 
-##Correction de l'interface
+## Correction de l'interface
 
 
 1. la element de la navbar ne son par centrer
